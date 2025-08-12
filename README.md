@@ -1,7 +1,7 @@
 # Wordlist-Generator
 
 
-gitclone https://github.com/rootbox2025/Wordlist-Generator.git
+git clone https://github.com/rootbox2025/Wordlist-Generator.git
 
 cd custom_wordlist.py
 
